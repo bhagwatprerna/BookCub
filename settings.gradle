@@ -1,0 +1,2 @@
+rootProject.name='BookCub'
+include ':app'
